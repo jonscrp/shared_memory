@@ -1,5 +1,5 @@
-// Compile command: g++ suconota_8812 -o suconota_8812.exe -lrt
-// ./suconota_8812.exe prose.txt instruction.txt >> output.txt
+// Compile command: g++ filename -o filename.exe -lrt
+// ./filename.exe prose.txt instruction.txt >> output.txt
 
 
 #include <iostream>
